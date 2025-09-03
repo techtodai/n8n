@@ -12,9 +12,10 @@ n8n es una herramienta de automatización de flujos de trabajo (workflow automat
 
 ---
 
-## **📹 [Video tutorial](https://youtu.be/-eJHqN-Vwt8?si=TfIOX9xnvXahigtB)**
+## 📹 Video tutorial
 En este video te enseño cómo instalar n8n en Ubuntu Server utilizando Docker Compose, paso a paso y desde cero.
-**[https://youtu.be/-eJHqN-Vwt8?si=TfIOX9xnvXahigtB](https://youtu.be/-eJHqN-Vwt8?si=TfIOX9xnvXahigtB)**
+
+### [https://youtu.be/-eJHqN-Vwt8?si=TfIOX9xnvXahigtB](https://youtu.be/-eJHqN-Vwt8?si=TfIOX9xnvXahigtB)
 ---
 
 ## 🛠️ Comandos usados en el tutorial
@@ -44,12 +45,12 @@ cd n8n
 
 ### 5. Crear archivo de configuración
 ```bash
-nano docker-compose.yml
+nano [docker-compose.yml](https://github.com/techtodai/n8n/blob/main/docker-compose.yml)
 ```
 
 Ejemplo de configuración mínima:
 ```yaml
-version: "3.8"
+#Archivo proporcionado por Tech TodAI
 
 services:
   n8n:
@@ -99,7 +100,7 @@ http://IP-del-servidor:5678
 
 ## 🌍 Zonas horarias válidas
 Consulta la lista completa en Wikipedia:  
-[Lista de zonas horarias](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones)
+[Lista de zonas horarias](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List)
 
 ---
 
@@ -107,7 +108,7 @@ Consulta la lista completa en Wikipedia:
 - Conexión al servidor por SSH desde PowerShell  
 - Actualización básica del sistema Ubuntu  
 - Instalación de un editor de texto (nano)  
-- Creación de directorios y configuración de `docker-compose.yml`  
+- Creación de directorios y configuración de `[docker-compose.yml](https://github.com/techtodai/n8n/blob/main/docker-compose.yml)`  
 - Ejecución de n8n en contenedor con Docker Compose  
 - Acceso al panel de login y activación de funcionalidades premium gratuitas  
 - Breve recorrido por la interfaz y creación de un flujo de automatización básico  
