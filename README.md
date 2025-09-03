@@ -43,9 +43,9 @@ mkdir n8n
 cd n8n
 ```
 
-### 5. Crear archivo de configuración
+### 5. Crear [archivo](https://github.com/techtodai/n8n/blob/main/docker-compose.yml) de configuración
 ```bash
-nano [docker-compose.yml](https://github.com/techtodai/n8n/blob/main/docker-compose.yml)
+nano docker-compose.yml
 ```
 
 Ejemplo de configuración mínima:
