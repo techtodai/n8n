@@ -108,7 +108,7 @@ Consulta la lista completa en Wikipedia:
 - Conexión al servidor por SSH desde PowerShell  
 - Actualización básica del sistema Ubuntu  
 - Instalación de un editor de texto (nano)  
-- Creación de directorios y configuración de `[docker-compose.yml](https://github.com/techtodai/n8n/blob/main/docker-compose.yml)`  
+- Creación de directorios y configuración de [`docker-compose.yml`](https://github.com/techtodai/n8n/blob/main/docker-compose.yml)  
 - Ejecución de n8n en contenedor con Docker Compose  
 - Acceso al panel de login y activación de funcionalidades premium gratuitas  
 - Breve recorrido por la interfaz y creación de un flujo de automatización básico  
